@@ -1,3 +1,1 @@
-Projeto criado com apoio da RocketSeat ONE.
-
-O aplicativo foi feito para pessoas que buscam melhorar sua alimentação, ele serve para gerenciar suas refeicoes de forma local sem o uso da internet.
+Este aplicativo foi desenvolvido com o apoio da RocketSeat ONE e tem como objetivo auxiliar pessoas que desejam melhorar sua alimentação, oferecendo uma maneira prática de gerenciar suas refeições de forma local, sem a necessidade de conexão com a internet.
